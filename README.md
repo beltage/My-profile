@@ -11,6 +11,10 @@ Coding
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)  
 [![Robotics](https://img.shields.io/badge/Robotics-FF5733?style=for-the-badge&logo=robotframework&logoColor=white)](https://robotframework.org/)  [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Gazebo ROS](https://img.shields.io/badge/Gazebo-0081C9?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)   [![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  [![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B0082?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![Algorithms](https://img.shields.io/badge/Algorithms-FFD700?style=for-the-badge&logo=codeforces&logoColor=black)](https://cp-algorithms.com/) [![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+
+
 
 ---
 ### 📫 How to reach me
